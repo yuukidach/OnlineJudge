@@ -7,6 +7,7 @@ A repo to store my solutions for problems on Online Judge.
 ``` fish
 .
 ├── LeetCode
-└── Luogu
+├── Luogu
+└── USACO
 
 ```
